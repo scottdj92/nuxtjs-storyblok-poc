@@ -1,0 +1,17 @@
+{
+  "name": "nuxtjs-storyblok-poc",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:scottdj92/nuxtjs-storyblok-poc.git",
+  "author": "<scottdj92@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "nuxt"
+  },
+  "dependencies": {
+    "nuxt": "^2.4.5"
+  },
+  "devDependencies": {
+    "@nuxt/typescript": "^2.4.5"
+  }
+}
